@@ -10,7 +10,7 @@ Tab Bar Controller App is written in Swift language for iOS.
 
 * Xcode Editor
 
-* iOS 13.3 or latest version
+* iPhone 11 or latest version
 
 ## 🛠️ Installation
 
